@@ -42,7 +42,26 @@ Use this tool only for systems and environments that you own or
 have explicit authorization to assess.
 
 ## Purchase & Contact
-Interested in purchasing CyberAudit?
-For pricing, licensing, or purchase information:
-Telegram: @ArtemRedTeam (http://t.me/ArtemRedTeam)
-Please contact me on Telegram for more information.
+
+CyberAudit Pro is a professional security audit reporting tool designed
+to help security professionals organize authorized audit findings
+and generate structured security reports.
+
+### Features
+
+- Security audit project management
+- Finding management
+- Severity classification
+- Evidence documentation
+- Security recommendations
+- Professional report generation
+- Custom report templates
+- HTML and PDF export
+
+### Purchase
+
+Interested in purchasing CyberAudit Pro?
+
+For pricing, licensing, and purchase information:
+
+**Telegram:** [@ArtemRedTeam](https://t.me/ArtemRedTeam)
